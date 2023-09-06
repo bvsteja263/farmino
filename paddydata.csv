@@ -1,0 +1,139 @@
+crop,herbicide or insecticide,stage,chemical1,chemical2,mixing ratio
+paddy,herbicide,pre,Pretilachlor,nochem,303gm/acre
+paddy,herbicide,pre,Chlorimuron Methly,nochem,1.6gm/acre
+paddy,herbicide,pre,Metsulfuron Methly,nochem,1.6gm/acre
+paddy,herbicide,pre,Pyrazosulfuron Ethyl,nochem,8gm/acre
+paddy,herbicide,pre,Pendimethalin,nochem,1000-1500gm/acre
+paddy,insecticide,post,Bifenthrin,nochem,20-25ml/acre
+paddy,insecticide,post,Imidacloprid,nochem,70-100ml/acre
+paddy,insecticide,post,Cartap Hydrochloride,nochem,1000-1500gm/acre
+paddy,insecticide,post,Thiamethoxam,nochem,20-25gm/acre
+paddy,insecticide,post,Flonicamid,nochem,50-60gm/acre
+paddy,insecticide,post,Fipronil,nochem,500-600ml/acre
+paddy,insecticide,post,Chlorpyrifos,Cypermethrin,500-600ml/acre + 50-60ml/acre
+paddy,insecticide,post,Cypermethrin,Chlorpyrifos,50-60ml/acre + 500-600ml/acre
+paddy,insecticide,post,Imidacloprid,Thiamethoxam,40-50ml/acre + 40-50ml/acre
+paddy,insecticide,post,Thiamethoxam,Imidacloprid,40-50ml/acre + 40-50ml/acre
+paddy,insecticide,post,Fipronil,Imidacloprid,45ml/acre + 50ml/acre
+paddy,insecticide,post,Imidacloprid,Fipronil,50ml/acre + 45ml/acre
+paddy,insecticide,post,Cartap Hydrochloride,Bifenthrin,200-250gm/acre + 200-250gm/acre
+paddy,insecticide,post,Bifenthrin,Cartap Hydrochloride,200-250gm/acre + 200-250gm/acre
+paddy,insecticide,post,Triazophos,Cypermethrin,500ml/acre + 500-600ml/acre
+paddy,insecticide,post,Cypermethrin,Triazophos,500-600ml/acre + 500ml/acre
+paddy,herbicide and insecticide,pre,Chlorpyrifos,Pretilachlor,500-600ml/acre + 500-600ml/acre
+paddy,herbicide and insecticide,pre,Pretilachlor,Chlorpyrifos,500-600ml/acre + 500-600ml/acre
+paddy,herbicide and insecticide,pre,Imidacloprid,Butachlor,40-50ml/acre + 1250-1500ml/acre
+paddy,herbicide and insecticide,pre,Butachlor,Imidacloprid,1250-1500ml/acre + 40-50ml/acre
+paddy,herbicide and insecticide,pre,Carbofuran,(2/4-D),1000gm/acre + 500-600ml/acre
+paddy,herbicide and insecticide,pre,(2/4-D),Carbofuran,500-600ml/acre + 1000gm/acre
+paddy,herbicide,post,Pretilachlor,Safener,600-800ml/acre + 600-800ml/acre
+paddy,herbicide,post,Safener,Pretilachlor,600-800ml/acre + 600-800ml/acre
+paddy,herbicide,post,Butachlor,(2/4-D),1000-1500gm/acre + 500-600ml/acre
+paddy,herbicide,post,(2/4-D),Butachlor,500-600ml/acre + 1000-1500gm/acre
+paddy,herbicide,post,Anilofos,(2/4-D),500-600ml/acre + 500-600ml/acre
+paddy,herbicide,post,(2/4-D),Anilofos,500-600ml/acre + 500-600ml/acre
+paddy,herbicide,post,Thiobencarb,(2/4-D),1000-1500gm/acre + 500-600ml/acre
+paddy,herbicide,post,(2/4-D),Thiobencarb,500-600ml/acre + 1000-1500gm/acre  
+sugarcane,herbicide,post,Metribuzin,nochem,350-500gm/acre
+sugarcane,herbicide,post,2/4-D,nochem,1500-2000gm/acre
+sugarcane,herbicide,post,Atrazine,nochem,1000-1500gm/acre
+sugarcane,herbicide,pre,Glyphosate,nochem,1000-1500ml/acre
+sugarcane,herbicide,pre,Pendimethalin,nochem,1000-1500gm/acre
+sugarcane,herbicide,pre,Imazethapyr,nochem,70-100gm/acre
+sugarcane,herbicide,post,Atrazine,2/4-D,946-1892ml/acre + 568-1136ml/acre
+sugarcane,herbicide,post,2/4-D,Atrazine,568-1136ml/acre + 946-1892ml/acre
+sugarcane,herbicide,pre,Glyphosate,2/4-D,946-1892ml/acre + 1136ml/acre
+sugarcane,herbicide,pre,2/4-D,Glyphosate,1136ml/acre+946-1892ml/acre
+sugarcane,herbicide,post,Metribuzin,Atrazine,226.769-453.592ml/acre + 453.592-907.185grams/acre
+sugarcane,herbicide,post,Atrazine,Metribuzin,453.592-907.185grams/acre + 226.769-453.592ml/acre
+sugarcane,herbicide,post,Pendimethalin,Imazethapyr,1419.529-2365.88ml/acre + 113.398-226.796grams/acre
+sugarcane,herbicide,post,Imazethapyr,Pendimethalin,113.398-226.796grams/acre + 1419.529-2365.88ml/acre
+sugarcane,insecticide,pre,Bifenthrin,nochem,10-20ml/acre
+sugarcane,insecticide,pre,Fipronil,nochem,50-100ml/acre
+sugarcane,insecticide,pre,Imidacloprid,nochem,25-50ml/acre
+sugarcane,insecticide,post,Chlorantraniliprole,nochem,30-50grams/acre
+sugarcane,insecticide,post,Imidacloprid,Chlorpyrifos,200-250ml/acre + 1000-1500ml/acre
+sugarcane,insecticide,post,Chlorpyrifos,Imidacloprid,1000-1500ml/acre + 200-250ml/acre 
+sugarcane,insecticide,pre,Fipronil,Imidacloprid,80-100ml/acre + 200-250ml/acre
+sugarcane,insecticide,pre,Imidacloprid,Fipronil,200-250ml/acre + 80-100ml/acre
+sugarcane,insecticide,post,Thiamethoxam,Chlorpyrifos,80-100grams/acre + 1000-1500ml/acre
+sugarcane,insecticide,post,Chlorpyrifos,Thiamethoxam,1000-1500ml/acre + 80-100grams/acre
+wheat,herbicide,pre,Pendimethalin,nochem,40-60gm/acre
+wheat,herbicide,post,Clodinafop Propargyl,nochem,24-36gm/acre
+wheat,herbicide,pre,Metribuzin,nochem,70-100gm/acre
+wheat,herbicide,post,Sulfosulfuron,nochem,8-16gm/acre
+wheat,herbicide,post,Metsulfuron,nochem,1.6-2.4gm/acre
+wheat,herbicide,post,Metsulfuron Methyl,nochem,1.6-2.4gm/acre
+wheat,herbicide,post,Paraquat Dichloride,nochem,200-400gm/acre
+wheat,herbicide,post,Isoproturon,nochem,400-600gm/acre
+wheat,herbicide,post,2/4-D Amine salt,nochem,500-600gm/acre
+wheat,insecticide,post,Cypermethrin,nochem,100-150ml/acre
+wheat,insecticide,post,Imidacloprid,nochem,40-50ml/acre
+wheat,herbicide and insecticide,post,Imidacloprid,Clodinafop,54-62gm/acre + 42-54gm/acre
+wheat,herbicide and insecticide,post,Clodinafop,Imidacloprid,41-51gm/acre + 54-62gm/acre
+wheat,herbicide and insecticide,post,Chlorpyrifos,Isoproturon,250-300gm/acre + 500-750gm/acre
+wheat,herbicide and insecticide,post,Isoproturon,Chlorpyrifos,500-750gm/acre + 250-300gm/acre
+wheat,herbicide and insecticide,post,Thiamethoxam,Metsulfuron,60-80gm/acre + 2-4 gm/acre
+wheat,herbicide and insecticide,post,Metsulfuron,Thiamethoxam,2-4gm/acre + 60-80gm/acre
+maize,insecticide,post,Monocrotophos,nochem,500-600ml/acre
+maize,insecticide,post,Chlorantraniliprole,nochem,60-80ml/acre
+maize,insecticide,pre,Chlorpyrifos,nochem,1000-1500ml/acre
+maize,insecticide,pre,Imidacloprid,nochem,40-50ml/acre
+maize,insecticide,pre,Lambda-cyhalothrin,nochem,50-60ml/acre
+maize,herbicide,pre,Atrazine,nochem,750-1500gm/acre
+maize,herbicide,post,2/4-D Amine salt,nochem,1000-1500gm/acre
+maize,herbicide,pre,Pendimethalin,nochem,2000-2500gm/acre
+maize,herbicide and insecticide,post,Chlorpyrifos,Atrazine,500-600ml/acre + 1000-1500ml/acre
+maize,herbicide and insecticide,post,Atrazine,Chlorpyrifos,1000-1500gm/acre + 500-600ml/acre
+maize,herbicide and insecticide,pre,Imidacloprid,Pendimethalin,70-80ml/acre + 1000-1000gm/acre
+maize,herbicide and insecticide,pre,Pendimethalin,Imidacloprid,1000-1500gm/acre + 70-80ml/acre
+maize,herbicide and insecticide,post,Lambda-cyhalothrin,2/4-D,50-60ml/acre + 500-600ml/acre
+maize,herbicide and insecticide,post,2/4-D,Lambda-cyhalothrin,500-600ml/acre + 50-60ml/acre
+groundnut,herbicide,pre,Ametryn,nochem,0.6-0.8kg/acre
+groundnut,insecticide,post,Chlorpyrifos,nochem,400-450ml/acre
+groundnut,herbicide,pre,Diclosulam,nochem,10.6-10.6 gm/acre
+groundnut,herbicide,pre,Fenoxaprop-p-ethyl,nochem,354.1ml/acre
+groundnut,herbicide,pre,Imazethapyr,nochem,0.4-0.60l/acre
+groundnut,herbicide,pre,Oxyflourfen,nochem,171.9-343.9ml/acre
+groundnut,herbicide and insecticide,pre,Ametryn,Thiamethoxam ,0.6-0.80kg/acre + 8.09-10.11g/acre
+groundnut,herbicide and insecticide,pre,Thiamethoxam,Ametryn ,8.09-10.11g/acre + 0.6-0.80kg/acre
+groundnut,insecticide,post,Chlorpyrifos ,Thiamethoxam ,8.09-10.11g/acre
+groundnut,herbicide and insecticide,post,Diclosulam,Thiamethoxam,10.6-12.5gm/acre + 0.01-0.016kg/acre
+groundnut,herbicide and insecticide,pre,Fenoxaprop-p-ethyl,Thiamethoxam,354.1ml/acre + 0.01-0.016kg/acre
+groundnut,herbicide and insecticide,pre,Imazethapyr ,Thiamethoxam,0.4-0.6l/acre + 0.01-0.016kg/acre
+mango,herbicide,pre,Glyphosate,nochem,0.4-0.6l/acre
+mango,insecticide,post,Imidachloprid,nochem,0.02-0.03l/acre
+mango,insecticide,post,Monocrotophos,nochem,0.012-0.016 l/acre
+mango,herbicide,pre,Pendimethalin,nochem,0.8-1.01l/acre
+mango,insecticide,pre,Thiamethoxam,nochem,0.012-0.016kg/acre
+mango,herbicide,pre,Triclopyr,nochem,0.6-0.8l/acre
+mango,herbicide and insecticide,pre,Ametryn ,Thiamethoxam ,0.6-0.8kg/acre + 8.09-10.11g/acre
+mango,herbicide and insecticide,pre,Thiamethoxam,Ametryn,8.09-10.11g/acre +  0.6-0.8kg/acre
+mango,herbicide and insecticide,pre,Imazethapyr ,Thiamethoxam,0.4-0.60l/acre + 0.012-0.016kg/acre
+mango,herbicide and insecticide,pre,Pendimethalin,Thiamethoxam,0.8-1.01l/acre + 0.012-0.016kg/acre
+sunflower,herbicide,pre,Atrazine,nochem,0.6-0.8kg/acre
+sunflower,herbicide,pre,Imazapyr,nochem,0.4-0.60l/acre
+sunflower,herbicide,pre,Oxyflourfen,nochem,171.9-343.9ml/acre
+sunflower,insecticide,post,Thiamethoxam,nochem,0.012-0.016kg/acre
+sunflower,insecticide,post,Chlorpyrifos,nochem,400-450ml/acre
+sunflower,insecticide,post,Deltamethrin,nochem,0.010-0.015l/acre
+sunflower,herbicide and insecticide,pre,Atrazine ,Thiamethoxam,0.6-0.8kg/acre + 0.012-0.016kg/acre
+sunflower,herbicide and insecticide,pre,Imazapyr ,Thiamethoxam,0.4-0.60l/acre + 0.012-0.016kg/acre
+sunflower,herbicide and insecticide,pre,Oxyflourfen ,Thiamethoxam,171.9-343.9ml/acre + 0.012-0.016kg/acre
+sunflower,insecticide,post,Thiamethoxam,Chlorpyrifos,0.012-0.016kg/acre + 400-450ml/acre
+sunflower,insecticide,post,Thiamethoxam,Deltamethrin,0.012-0.016kg/acre + 0.010-0.015l/acre
+groundnut,herbicide and insecticide,pre,Thiamethoxam,Ametryn,8.09-10.11g/acre + 0.6-0.80kg/acre
+groundnut,herbicide and insecticide,pre,Ametryn,Thiamethoxam,0.6-0.80kg/acre + 8.09-10.11g/acre
+groundnut,insecticide,post,Thiamethoxam,Chlorpyrifos,8.09-10.11g/acre
+groundnut,herbicide and insecticide,post,Thiamethoxam,Diclosulam,0.01-0.016kg/acre + 10.6-12.5gm/acre
+groundnut,herbicide and insecticide,pre,Thiamethoxam,Fenoxaprop-p-ethyl,0.01-0.016kg/acre + 354.1ml/acre
+groundnut,herbicide and insecticide,pre,Thiamethoxam,Imazethapyr,0.01-0.016kg/acre + 0.4-0.6l/acre
+mango,herbicide and insecticide,pre,Thiamethoxam,Amtryn,8.09-10.11g/acre + 0.6-0.8kg/acre
+mango,herbicide and insecticide,pre,Amtryn,Thiamethoxam,0.6-0.8kg/acre + 8.09-10.11g/acre
+mango,herbicide and insecticide,pre,Thiamethoxam,Imazethapyr,0.012-0.016kg/acre + 0.4-0.60l/acre
+mango,herbicide and insecticide,pre,Thiamethoxam,Pendimethalin,0.012-0.016kg/acre + 0.8-1.01l/acre
+sunflower,herbicide and insecticide,pre,Thiamethoxam,Atrazine,0.012-0.016kg/acre + 0.6-0.8kg/acre
+sunflower,herbicide and insecticide,pre,Thiamethoxam,Imazapyr,0.012-0.016kg/acre + 0.4-0.60l/acre
+sunflower,herbicide and insecticide,pre,Thiamethoxam,Oxyflourfen,0.012-0.016kg/acre + 171.9-343.9ml/acre
+sunflower,insecticide,post,Chlorpyrifos,Thiamethoxam,400-450ml/acre + 0.012-0.016kg/acre
+sunflower,insecticide,post,Deltamethrin,Thiamethoxam,0.010-0.015l/acre + 0.012-0.016kg/acre
